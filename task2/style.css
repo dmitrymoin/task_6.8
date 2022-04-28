@@ -1,0 +1,16 @@
+div {
+    width: 380px;
+    margin: 10px 5px;
+    padding: 20px 0px 20px 15px;
+    border-style: double;
+    background-color: rgb(250, 196, 46);  
+}
+
+span {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+span:hover {
+    color: blue;
+}

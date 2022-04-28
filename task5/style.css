@@ -1,0 +1,28 @@
+form {
+    width: 305px;
+    height: 210px;
+    border-style: solid;
+    background-color: rgb(156, 161, 230);
+   }
+
+input {
+    width: 200px;
+    height: 20px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+button {
+    cursor: pointer;
+    margin: 4px;
+    padding: 5px;
+}
+
+div {
+    position: relative; top: -120px; left: 12px;
+}
+
+p {
+    font-size: 18px;
+}
